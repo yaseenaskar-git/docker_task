@@ -1,5 +1,5 @@
 # Step 1: Choose a base image
-node:16
+FROM node:16
 
 # Step 2: Set working directory inside container
 WORKDIR /web
