@@ -28,7 +28,7 @@ COPY . .
 EXPOSE 3000
 
 # Step 7: Define the command to run the application
-CMD ["npm ", "start"] 
+CMD ["npm", "start"] 
 
 #was CMD ['npm start'] but since this is JS, docker expects JS syntax with double quotes, 
 #and the npm start should be separated */ 
