@@ -50,6 +50,10 @@ Your task is to containerize this existing application using Docker. You need to
  docker run -p 3000:3000 dockertask_rize
 ```
 
+## Assignment Images
+![Docker Containerization Success](images/docker1.png)
+![Docker API Status](images/docker2.png)
+
 ## Reflection Question
 **Answer the following question in the space below**: How does containerization with Docker differ from using virtual machines, and why might a development team choose Docker containers over VMs for deploying applications like the one you just containerized?
 
